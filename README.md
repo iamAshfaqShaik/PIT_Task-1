@@ -1,6 +1,6 @@
-#Prodigy InfoTech Task 1
+# Prodigy InfoTech Task 1
 
-#Responsive Landing Page
+# Responsive Landing Page
 
 Description
 
