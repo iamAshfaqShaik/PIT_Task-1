@@ -1,6 +1,6 @@
 #Prodigy InfoTech Task 1
 
-Responsive Landing Page
+#Responsive Landing Page
 
 Description
 
@@ -24,9 +24,10 @@ Thanks to SkillCraft Technologies for the internship opportunity.
 Inspiration for the design and functionality was drawn from modern web design principles and practices.
 Guidance and support from the SkillCraft Technologies development team.
 
-View My Website Here : Visit Here
+View My Website Here : [Visit Here](https://iamashfaqshaik.github.io/PIT_Task-1/
+)
 
 Author: Shaik Ashfaq 
-Github: Shaik Ashfaq
+Github: Shaik Ashfaq (https://github.com/iamAshfaqShaik)
 
 Date: July 2024
